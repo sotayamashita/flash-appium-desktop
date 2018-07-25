@@ -1,2 +1,1 @@
-# flash-appium-desktop
-Wrap up UI Test Automation with Appium
+Implementing on [GitLab](https://gitlab.com/samyamashita/new-appium-desktop)
